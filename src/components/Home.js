@@ -5,7 +5,8 @@ import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 // import Navbar from 'react-bootstrap/Navbar';
 // import Nav from 'react-bootstrap/Nav';
-import Form from 'react-bootstrap/form';
+
+import Form from 'react-bootstrap/Form';
 // import FormControl from 'react-bootstrap/formControl';
 // import Button from 'react-bootstrap/Button';
 import Columns from 'react-columns';
